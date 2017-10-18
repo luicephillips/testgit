@@ -1,5 +1,9 @@
 <?php
-    echo 'hello dangi pratik asdasdas';
+<<<<<<< HEAD
+    
+=======
+    echo 'hello aaaaaaaaa';
+>>>>>>> origin/child
     ?>
 <!DOCTYPE html> 
 <html> 
