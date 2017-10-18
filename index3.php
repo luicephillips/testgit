@@ -1,8 +1,8 @@
 <?php
 <<<<<<< HEAD
-    
+    echo 'hello dangi pratik asdasdas';
 =======
-    echo 'hello aaaaaaaaa';
+    
 >>>>>>> origin/child
     ?>
 <!DOCTYPE html> 
