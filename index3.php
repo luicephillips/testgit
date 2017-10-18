@@ -1,9 +1,7 @@
 <?php
-<<<<<<< HEAD
+
     echo 'hello dangi pratik asdasdas';
-=======
-    
->>>>>>> origin/child
+
     ?>
 <!DOCTYPE html> 
 <html> 
